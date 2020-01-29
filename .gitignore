@@ -54,3 +54,6 @@ _trial_temp
 
 # OSX
 .DS_Store
+.history
+.venv
+.vscode
